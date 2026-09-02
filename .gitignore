@@ -1,0 +1,12 @@
+# Build and release folders
+build/
+dist/
+
+# Archive files
+*.zip
+
+# PyInstaller config
+*.spec
+
+# macOS system files
+.DS_Store
