@@ -18,6 +18,11 @@ vidDownloader is packaged natively for macOS and can be installed instantly usin
 Once Homebrew is ready, you can install vidDownloader directly by tapping the repository and installing the cask:
 ```bash
 brew tap Md-Yousuf-2723/tap
+```
+```bash
+brew trust md-yousuf-2723/tap
+```
+```bash
 brew install --cask viddownloader
 ```
 # If Homebrew not installed
