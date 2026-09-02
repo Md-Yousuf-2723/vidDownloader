@@ -37,5 +37,10 @@ If you get a "command not found" error, you need to install Homebrew first. Run 
 ```
 After installing homebrew run the installation commands again to install the app
 
+## Uninstallation
+To completely uninstall the application and remove all residual files (such as user preferences and saved application states), run:
+```bash
+brew uninstall --zap --cask viddownloader
+```
 ## License
 This project is open-source and available under the MIT License.
